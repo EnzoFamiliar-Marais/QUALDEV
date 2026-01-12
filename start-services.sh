@@ -31,3 +31,5 @@ echo "Press CTRL+C to stop everything."
 
 # Wait for all processes
 wait $PID1 $PID2 $PID3 $PID4
+
+## fin du fichiers start-services.sh
